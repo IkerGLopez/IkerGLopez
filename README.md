@@ -4,7 +4,7 @@
 <!-- <img src="https://i.imgur.com/weNbhGZ.png"> -->
 
 ## 👀 Sobre mí
-Finalizando mis estudios en el grado en Ingeniería Informática, dispuesto a embarcarme en proyectos innovadores e interesantes.
+Finalizando mis estudios en el Grado en Ingeniería Informática, dispuesto a embarcarme en proyectos innovadores e interesantes.
 
 - 💻 Software developer
 - 📚 Estudiante universitario (Ingeniería Informática en UPV/EHU)
