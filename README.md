@@ -51,7 +51,7 @@
 <a href="https://github.com/IkerGLopez/AudioRecorder" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Audio Recorder"></a>
 <p>
 <a href="https://github.com/IkerGLopez/AudioRecorder" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </a>
 </p>
@@ -64,9 +64,10 @@
 <h3 align="center">Sitio Web TFG</h3>
 <div align="center">
 <a href="https://github.com/IkerGLopez/TFG-UPVEHU" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Sitio Web TFG"></a>
+</a>
 <p>
 <a href="https://github.com/IkerGLopez/TFG-UPVEHU" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Sitio web NO OFICIAL destinado a facilitar información sobre los TFGs en la UPV/EHU, sus memorias y calendarios de presentación.</p>
@@ -83,7 +84,7 @@
 <a href="https://github.com/IkerGLopez/Rides" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Gestor de viajes"></a>
 <p>
 <a href="https://github.com/IkerGLopez/Rides" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Gestiona una aplicación de viajes.</p>
