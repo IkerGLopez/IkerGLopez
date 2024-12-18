@@ -80,13 +80,13 @@
 <td width="50%">
 <h3 align="center">Gestor de viajes</h3>
 <div align="center">
-<a href="https://github.com/IkerGLopez/TFG-UPVEHU" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Sitio Web TFG"></a>
+<a href="https://github.com/IkerGLopez/Rides" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Gestor de viajes"></a>
 <p>
-<a href="https://github.com/IkerGLopez/TFG-UPVEHU" target="_blank">
+<a href="https://github.com/IkerGLopez/Rides" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Sitio web NO OFICIAL destinado a facilitar información sobre los TFGs en la UPV/EHU, sus memorias y calendarios de presentación.</p>
+<p>Gestiona una aplicación de viajes.</p>
 </div>
                                                                                       
 </td>  
@@ -97,7 +97,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
+<a href="https://github.com/IkerGLopez">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
 </a>
