@@ -3,13 +3,19 @@
 </div>
 <!-- <img src="https://i.imgur.com/weNbhGZ.png"> -->
 
-## Sobre mí
+## 👀 Sobre mí
 Finalizando mis estudios en el grado en Ingeniería Informática, dispuesto a embarcarme en proyectos innovadores e interesantes.
 
 - 💻 Software developer
 - 📚 Estudiante universitario (Ingeniería Informática en UPV/EHU)
 
-## Mis proyectos
+## 📬 Contacto
+
+- 📨 Email: ikergarcialopez01@gmail.com
+- 📲 Tlf: +34 636796166
+- 👔 
+
+## 🔥 Mis proyectos
 <table>
 <tr>
 <td width="50%">
