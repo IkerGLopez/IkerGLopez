@@ -14,7 +14,7 @@
 <td width="50%">
 <h3 align="center">Videoclub</h3>
 <div align="center">
-<a href="https://github.com/IkerGLopez/VideoClub" target="_blank"><img src="https://drive.google.com/file/d/1qWqkaMUSO2K7_5xKOWE_nsU3BNtzH6h2/view?usp=drive_link" width="400" alt="Videoclub"></a>
+<a href="https://github.com/IkerGLopez/VideoClub" target="_blank"><img src="https://imgur.com/DxO4KLR" width="400" alt="Videoclub"></a>
 <p>
 <a href="https://github.com/IkerGLopez/VideoClub" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
