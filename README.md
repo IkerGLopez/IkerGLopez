@@ -17,6 +17,8 @@
 <a href="https://github.com/IkerGLopez/VideoClub" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Videoclub"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
 <p>Simula el funcionamiento de un videoclub de forma básica. Guardando las películas y los actores y gestionando distintos usos.</p>
 </div>
                                                                                       
@@ -24,19 +26,16 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Casa de Apuestas</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/IkerGLopez/CasaApuestas" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Casa de Apuestas"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Simula una casa de apuestas: Login/Register, tipos de usuarios, monedero, apuestas realizadas, apostar... (EN ESTA CUENTA ESTAMOS TOTALMENTE EN CONTRA DEL JUEGO Y CONDENAMOS LA INCITACIÓN A LA LUDOPATÍA QUE SE PROMUEVE MASIVAMENTE)</p>
 </div>                                                             
 </table>                                                                                 
 </div>
