@@ -14,7 +14,7 @@
 <td width="50%">
 <h3 align="center">Videoclub</h3>
 <div align="center">
-<a href="https://github.com/IkerGLopez/VideoClub" target="_blank"><img src="https://imgur.com/DxO4KLR" width="400" alt="Videoclub"></a>
+<a href="https://github.com/IkerGLopez/VideoClub" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1qWqkaMUSO2K7_5xKOWE_nsU3BNtzH6h2" width="400" alt="Videoclub"></a>
 <p>
 <a href="https://github.com/IkerGLopez/VideoClub" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
@@ -29,7 +29,7 @@
                <br>
 <h3 align="center">Casa de Apuestas</h3>
 <div align="center">                                       
-<a href="https://github.com/IkerGLopez/CasaApuestas" target="_blank"><img src="https://drive.google.com/file/d/1YxkaVlotUP7Sx70tYqzXKxbWfCBrp1km/view?usp=drive_link" width="400" alt="Casa de Apuestas"></a>
+<a href="https://github.com/IkerGLopez/CasaApuestas" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1YxkaVlotUP7Sx70tYqzXKxbWfCBrp1km" width="400" alt="Casa de Apuestas"></a>
 <br>
 <p>
 <a href="https://github.com/IkerGLopez/CasaApuestas" target="_blank">
@@ -48,7 +48,7 @@
 <td width="50%">
 <h3 align="center">Audio Recorder</h3>
 <div align="center">
-<a href="https://github.com/IkerGLopez/AudioRecorder" target="_blank"><img src="https://drive.google.com/file/d/1f8slUMsS0IWly9xLhvfierGBt3GBpyGT/view?usp=drive_link" width="400" alt="Audio Recorder"></a>
+<a href="https://github.com/IkerGLopez/AudioRecorder" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1f8slUMsS0IWly9xLhvfierGBt3GBpyGT" width="400" alt="Audio Recorder"></a>
 <p>
 <a href="https://github.com/IkerGLopez/AudioRecorder" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
@@ -63,7 +63,7 @@
 <td width="50%">
 <h3 align="center">Sitio Web TFG</h3>
 <div align="center">
-<a href="https://github.com/IkerGLopez/TFG-UPVEHU" target="_blank"><img src="https://drive.google.com/file/d/1PFIwv0D13zBnEu2ZiYtIt11FPuw7qm9t/view?usp=drive_link" width="400" alt="Sitio Web TFG"></a>
+<a href="https://github.com/IkerGLopez/TFG-UPVEHU" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1PFIwv0D13zBnEu2ZiYtIt11FPuw7qm9t" width="400" alt="Sitio Web TFG"></a>
 </a>
 <p>
 <a href="https://github.com/IkerGLopez/TFG-UPVEHU" target="_blank">
@@ -81,7 +81,7 @@
 <td width="50%">
 <h3 align="center">Gestor de viajes</h3>
 <div align="center">
-<a href="https://github.com/IkerGLopez/Rides" target="_blank"><img src="https://drive.google.com/file/d/1fskqKxcMk4lICS4xt1WrEHZF12S_WoKZ/view?usp=drive_link" width="400" alt="Gestor de viajes"></a>
+<a href="https://github.com/IkerGLopez/Rides" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1fskqKxcMk4lICS4xt1WrEHZF12S_WoKZ" width="400" alt="Gestor de viajes"></a>
 <p>
 <a href="https://github.com/IkerGLopez/Rides" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
