@@ -13,7 +13,7 @@ Finalizando mis estudios en el Grado en Ingeniería Informática, dispuesto a em
 
 - 📨 Email: ikergarcialopez01@gmail.com
 - 📲 Tlf: +34 636796166
-- 👔 
+- 👔 LinkedIn: https://www.linkedin.com/in/iker-garc%C3%ADa-l%C3%B3pez-59b1a1357/
 
 ## 🔥 Mis proyectos
 <table>
